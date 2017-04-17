@@ -5,3 +5,4 @@ authors = ["Jonathan Pallant <github@thejpster.org.uk>"]
 license = "MIT"
 
 [dependencies]
+byteorder = "^1.0.0"
